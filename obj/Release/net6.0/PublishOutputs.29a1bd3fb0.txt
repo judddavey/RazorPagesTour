@@ -1,0 +1,7 @@
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\RazorPagesTour.exe
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\appsettings.json
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\RazorPagesTour.dll
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\RazorPagesTour.deps.json
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\RazorPagesTour.runtimeconfig.json
+C:\Dev\PluralSight\RazorPages\Apps\RazorPagesTour\bin\Release\net6.0\publish\RazorPagesTour.pdb
